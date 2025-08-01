@@ -1,0 +1,16 @@
+.heading1{
+    background-color:chocolate;
+    color: beige;
+    cursor: pointer;
+    
+}
+.heading1:hover{
+        background-color: black;
+       
+}
+.body1{
+    cursor: pointer;
+}
+nav{
+ margin-left: 56%;
+}
